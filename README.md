@@ -1,6 +1,8 @@
 # ✦ Alex Rivera — Portfolio
 ### A luxe editorial Flask portfolio
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Replit-blue?logo=replit)](https://web-host-hub--agnuspaul162.replit.app/)
+
 ---
 
 ## 🌐 Live Demo
