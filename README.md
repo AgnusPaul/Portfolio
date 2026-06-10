@@ -1,4 +1,4 @@
-# ✦ Alex Rivera — Portfolio
+# ✦ Agnus Paul — Portfolio
 ### A luxe editorial Flask portfolio
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Replit-blue?logo=replit)](https://web-host-hub--agnuspaul162.replit.app/)
@@ -59,7 +59,7 @@ Edit `app.py` to update:
 - **TIMELINE** — year, role, company, description
 
 ### 2. Your Name & Bio
-Open `templates/index.html` and search for `Alex Rivera` — replace with your own name.
+Open `templates/index.html` and search for `Agnus Paul` — replace with your own name if needed.
 Update the bio text in the `<!-- ABOUT -->` section.
 
 ### 3. Your Photo
